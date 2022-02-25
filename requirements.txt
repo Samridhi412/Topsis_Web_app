@@ -1,11 +1,5 @@
-streamlit
-pandas
-sys
-smtplib
-logging
-numpy
-os
-MIMEMultipart
-MIMEText
-MIMEBase
-encoders
+numpy==1.20.2
+pandas==1.3.4
+python_topsis_Samridhi_101916086==4.1.1
+streamlit==1.6.0
+~treamlit==1.5.1
