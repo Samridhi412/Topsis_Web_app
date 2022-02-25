@@ -1,0 +1,11 @@
+streamlit
+pandas
+sys
+smtplib
+logging
+numpy
+os
+MIMEMultipart
+MIMEText
+MIMEBase
+encoders
